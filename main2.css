@@ -1,0 +1,51 @@
+html {
+
+}
+
+body {
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+h2 {
+
+}
+
+a {
+    text-decoration: none;
+}
+b, strong {
+
+}
+
+samp {
+
+}
+
+img {
+
+}
+#wrapper {
+	
+}
+div {
+    
+}
+a:link {
+  text-decoration: none ;
+  color:white;
+} 
+
+#maintxt {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 0;
+}
+#maintxt2 {
+    padding-top: 4%;
+    padding-bottom: 1%;
+    margin: 0;
+}
