@@ -40,12 +40,17 @@ a:link {
 } 
 
 #maintxt {
-    padding-top: 1%;
+    padding-top: 4%;
     padding-bottom: 1%;
     margin: 0;
 }
 #maintxt2 {
     padding-top: 4%;
     padding-bottom: 1%;
+    margin: 0;
+}
+#CurrentProjects {
+    padding-top: 4%;
+    padding-bottom: 25%;
     margin: 0;
 }
